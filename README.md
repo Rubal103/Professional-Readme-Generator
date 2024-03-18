@@ -16,9 +16,8 @@ node index.js
 
 ![screenshot of the terminal](./media/image.png)
 
+link to video: https://app.screencastify.com/v3/watch/nrZiof15iETDx9AZMf9c
 
-
-![video](./media/README%20Generator.webm)
 
 
 ## User Story
