@@ -62,11 +62,11 @@ function generateMarkdown(data) {
   
   ## Table of Contents:
   - [Installation Instructions](#Installation-Instructions)
-  - [Usage Information](#Usage-Information)
+  - [Usage Information](#Usage-Instructions)
   - [Contribution Guidelines](#Contribution-Guidelines)
   - [Test Instructions](#Test-Instructions)
   - [License](#License)
-  - [Questions](#Questions)
+ 
 
   ## Installation Instructions:
   ${data.installation}
