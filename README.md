@@ -14,10 +14,9 @@ The application will be invoked by using the following command:
 node index.js
 ```
 
-![screenshot of the terminal](./media/image.png)
+![screenshot of the terminal](./media/image.JPG)
 
-link to video: https://app.screencastify.com/v3/watch/nrZiof15iETDx9AZMf9c
-
+link to the video: https://drive.google.com/file/d/1ZM4A0w963TBzdGly_o8N_bwKy2jCeI9S/view?usp=sharing
 
 
 ## User Story
