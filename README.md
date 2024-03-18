@@ -16,6 +16,8 @@ node index.js
 
 ![screenshot of the terminal](./media/image.png)
 
+
+
 ![video](./media/README%20Generator.webm)
 
 
