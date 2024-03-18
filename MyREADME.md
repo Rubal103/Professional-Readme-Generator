@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description:
-  Appliation to help the user create a README File using inquirer in nodejs
+  Application build with node js, inquirer to generate a README File.
   
   ## Table of Contents:
   - [Installation Instructions](#Installation-Instructions)
@@ -14,16 +14,16 @@
  
 
   ## Installation Instructions:
-  Open index.js in integrated terminal to run “npm i” on the command line. This will make sure that “node-modules” and “package.json” are working.
+  Open index.js in integrated terminal to run npm i on the command line. This will make sure that node modules and package.json are working. 
   
   ## Usage Instructions:
-  1. open index.js in integrated terminal 2. Type node index.js in the command line. 3. user  will be asked questions by npm inquirer and user will provide necessary information  4. once completed a  README file will be generated
+  1. Open index.js in integrated terminal. 2. Type node inex.js in the command line. 3. User will be asked questions by npm inquirer and user will provide necessary inforamtion. 4. Once complete a README file will be generated. 
   
   ## Contribution Guidelines:
-  users can change the questions in the prompts to make a README file as per their project requirements. 
+  users can change their questions in the prompts to make a README file as per their project requirements. 
   
   ## Test Instructions:
-  user can run a debugger from package.json to make sure that application is working properly.
+  user can run a debugger from package.jsom to make sure that application is runnning. 
   
   ## License:
   
@@ -32,5 +32,9 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT);
   https://opensource.org/licenses/MIT
   
+
+  ## Questions:
+  For additonal questions or open feedback, feel free to contact me at my email:rubal103@gmail.com. 
+  You can also find me on Github at : github.com/Rubal103
   
   
